@@ -2,7 +2,7 @@ public class Main {
   public static void main(String[] args) {
     ArrayList list = new ArrayList();
     for (i=2; i<10; i++) {
-      list.add("Hello World!");
+      list.add("Hello!");
     }
     printAll(list);
   }
